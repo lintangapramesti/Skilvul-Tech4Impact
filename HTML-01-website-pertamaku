@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src="script.js"></script>
+    <!-- <link rel="stylesheet" type="text/css" href="styles.css"> -->
+  </head>
+  <body>
+  <h1>Website Pertamaku</h1>
+  <p>Ini adalah pertama kali saya membuat sebuah website menggunakan HTML</p>
+  <a href="https://google.com" target="_blank">tekan ini untuk pergi ke google</a>
+  </body>
+  <!--link netflify:-->
+</html>
