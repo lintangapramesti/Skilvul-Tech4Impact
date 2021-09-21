@@ -1,2 +1,3 @@
 Ini adalah file CV
 perusahaan 1
+perusahaan 2
